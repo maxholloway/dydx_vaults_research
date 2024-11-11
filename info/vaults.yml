@@ -1,0 +1,2110 @@
+pagination:
+  next_key: null
+  total: "0"
+vaults:
+- equity: "10999848762"
+  inventory: "-342000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1c0m5x87llaunl5sgv3q5vd7j5uha26d2q2r2q0
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 0
+    type: VAULT_TYPE_CLOB
+- equity: "10685554744"
+  inventory: "108000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5500
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx14rplxdyycc6wxmgl8fggppgq4774l70zt6phkw
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 1
+    type: VAULT_TYPE_CLOB
+- equity: "6170780748"
+  inventory: "-91000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx165fla2xss0wrg8rr04x3e46mneat4fckrcf429
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 10
+    type: VAULT_TYPE_CLOB
+- equity: "10086229732"
+  inventory: "-24000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1czwrmjdehcvmk4xjdg8mwkxecgg67am0ccxdul
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 100
+    type: VAULT_TYPE_CLOB
+- equity: "9054872637"
+  inventory: "-1911000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1ag5jgl436uwa007t6ugvnwvy8hj0ynvvvtcu2g
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 101
+    type: VAULT_TYPE_CLOB
+- equity: "7356246839"
+  inventory: "-6089000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1ypya4270fm4gujvktk67ldvru3y2nx7pvud7ej
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 102
+    type: VAULT_TYPE_CLOB
+- equity: "10068383006"
+  inventory: "-593000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx124wtevhqpjg35m9ph7zf03al55k4a460celcn9
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 103
+    type: VAULT_TYPE_CLOB
+- equity: "13461894559"
+  inventory: "-403000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx10aysrtwzlasf4wavv6tgp40mpkn0vl3qcc0gcq
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 104
+    type: VAULT_TYPE_CLOB
+- equity: "10310809949"
+  inventory: "16000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1xe7h0k8qqyupu5z7xh83wpd79d9h0s4w6eukre
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 105
+    type: VAULT_TYPE_CLOB
+- equity: "9726167926"
+  inventory: "-4473000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx190wezyn99zsk2hgc3s7nlt5sjltzj04cm657hl
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 106
+    type: VAULT_TYPE_CLOB
+- equity: "9833368525"
+  inventory: "-746000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1wrt4ytendg0l490m028kt5c0850fkkmjwf5tg4
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 107
+    type: VAULT_TYPE_CLOB
+- equity: "10479607926"
+  inventory: "-138000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1grnsunqr2dhtgld5vcwu0awzntk88sq9fngz35
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 108
+    type: VAULT_TYPE_CLOB
+- equity: "9416062455"
+  inventory: "-1855000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx15t8hzcu3exjnh7lp4ks2m0qzcpfmjw7wnq0fvr
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 109
+    type: VAULT_TYPE_CLOB
+- equity: "18297966387"
+  inventory: "-377000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx10fxlw7umtqdel7n4tx8nrzwtzy4dpev6ls3na0
+  total_shares:
+    num_shares: "19834069373"
+  vault_id:
+    number: 110
+    type: VAULT_TYPE_CLOB
+- equity: "10253289231"
+  inventory: "-1179000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1key68rph9mtmm09f5udr58pfyq586dqr56zusw
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 111
+    type: VAULT_TYPE_CLOB
+- equity: "9255243062"
+  inventory: "-2967000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1ekgna52r076ng7d69c3u8ct7r4k3hw955nedwg
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 112
+    type: VAULT_TYPE_CLOB
+- equity: "9965140519"
+  inventory: "-163000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1mcskurn6epk8av0whh8rjtjafhs5j7dw4za9us
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 113
+    type: VAULT_TYPE_CLOB
+- equity: "9582721237"
+  inventory: "-390000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1pjvu4hurzc87l2j887f56s5qqk7dwsapdssvc4
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 114
+    type: VAULT_TYPE_CLOB
+- equity: "10363880880"
+  inventory: "-1195000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1dgrakcus0zwyajzprkfjnf666cnwcdew9zvvly
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 115
+    type: VAULT_TYPE_CLOB
+- equity: "10129707843"
+  inventory: "-2666000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1l3avcq2mwy9w0zua5m6g9j258f2edr5um74fwy
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 116
+    type: VAULT_TYPE_CLOB
+- equity: "9751743252"
+  inventory: "-1857000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1ushp8haqknjw3ur57ddyfhgsmcq0xysmn6m8ex
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 117
+    type: VAULT_TYPE_CLOB
+- equity: "9521562876"
+  inventory: "-1363000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1s55fuhygskjyu2llrvtaqqzuycl9dkvtrh4vs3
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 118
+    type: VAULT_TYPE_CLOB
+- equity: "9636656422"
+  inventory: "-50000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1ulquskxxqs80lq4s4q78f6g8swu0hr74ap0c27
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 119
+    type: VAULT_TYPE_CLOB
+- equity: "10055644317"
+  inventory: "-292000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1dc75mue9ylew9ql7yzgn5p4utgwvct747q6zym
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 120
+    type: VAULT_TYPE_CLOB
+- equity: "10647986743"
+  inventory: "-60000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx10ha4kaph74uxsstw547ux8hh6yk7vv7xgykxtl
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 121
+    type: VAULT_TYPE_CLOB
+- equity: "9132035407"
+  inventory: "-975000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1clduy6jtmju4chl4mfuv0zv6nryhpp07uuumr9
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 122
+    type: VAULT_TYPE_CLOB
+- equity: "10010782832"
+  inventory: "-23000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1gh7j9n3hh59zm3r4zhfk69nydnz723yf2gmujm
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 124
+    type: VAULT_TYPE_CLOB
+- equity: "10140857151"
+  inventory: "13000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx18ndf2h65c3qma5av354nz6kcjdkv5wtvsmj7z4
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 125
+    type: VAULT_TYPE_CLOB
+- equity: "10412830668"
+  inventory: "-100000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx13kcp8ljcef243yv9f2js6nr7uj4yasv5xsk4gy
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 126
+    type: VAULT_TYPE_CLOB
+- equity: "10389066994"
+  inventory: "1000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1p56afvyvjaktnnnskqvr4k38jdhr86m4p5dpmu
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 127
+    type: VAULT_TYPE_CLOB
+- equity: "8757162518"
+  inventory: "-6841000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1vpdmlvk8dg6wsqwp0am3t89wzt6c6zdve3qjty
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 128
+    type: VAULT_TYPE_CLOB
+- equity: "9965549055"
+  inventory: "-5000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1evmk2a3rp6adr5nzwsjh956deps30k08tchugs
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 129
+    type: VAULT_TYPE_CLOB
+- equity: "10148387144"
+  inventory: "-229000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5500
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1g99yaj7339hfu5a80z6yqj7gtssr884g6zkd8x
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 13
+    type: VAULT_TYPE_CLOB
+- equity: "8271148560"
+  inventory: "6177000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx144wyzc7zfgtmd4rm5l5vs5x0cfmkm7j00uh492
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 130
+    type: VAULT_TYPE_CLOB
+- equity: "39777929822"
+  inventory: "1021000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1tztgq6lygfvdd94ascze3phunclt5k3r7dc0le
+  total_shares:
+    num_shares: "61317274169"
+  vault_id:
+    number: 131
+    type: VAULT_TYPE_CLOB
+- equity: "9165958015"
+  inventory: "3258000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1ffwcwp4e7cgll5qyv0z685hw8l5l3q7jp4q2ks
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 132
+    type: VAULT_TYPE_CLOB
+- equity: "10242834591"
+  inventory: "-2130000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1eldxlhm8ass4fcm2s9yvhf5qguy6p5m63tvjkf
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 133
+    type: VAULT_TYPE_CLOB
+- equity: "10190997282"
+  inventory: "-2597000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx10pmmpjllyrap2cthfy49axfh8erlw87c8qzt92
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 134
+    type: VAULT_TYPE_CLOB
+- equity: "9936322821"
+  inventory: "-54000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx16ej3jztl5wqhwegsys6y0zkldzj2m984c9066n
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 135
+    type: VAULT_TYPE_CLOB
+- equity: "32950580607"
+  inventory: "2279000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1r2gfpy5kcr74vve5duat36hygr53f6qp0n7asm
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 136
+    type: VAULT_TYPE_CLOB
+- equity: "9638423672"
+  inventory: "250000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1lxg3qjp5xesysr6ceh0rq2zzah6xe7qv2lt0xk
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 137
+    type: VAULT_TYPE_CLOB
+- equity: "13530123598"
+  inventory: "-1668000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx169s7gl0a2v74zhqhmluljdx2dpkmpc9pp4snk7
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 138
+    type: VAULT_TYPE_CLOB
+- equity: "10003410956"
+  inventory: "-20000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1ddhw6s8jdd6lhqx7drs75hkcv4gfht4wh97rn2
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 139
+    type: VAULT_TYPE_CLOB
+- equity: "9693495979"
+  inventory: "-3000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx17aszlxyfvtw6rg2l2s38e4t7dqnn6mwdx4mg7w
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 140
+    type: VAULT_TYPE_CLOB
+- equity: "16567038677"
+  inventory: "-831000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1krtpfeau4p4n8ffs3wlc0kj63pgx70lxnk3cpd
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 141
+    type: VAULT_TYPE_CLOB
+- equity: "10017749077"
+  inventory: "-1881000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1747mf6l99pqps9gv6tgvfr5wxuvny7ucalr33k
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 142
+    type: VAULT_TYPE_CLOB
+- equity: "50045311647"
+  inventory: "5241000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1yzqutt4f6wq74sfy7j45s9gfmlxcy7vy3cu9jv
+  total_shares:
+    num_shares: "50000000000"
+  vault_id:
+    number: 143
+    type: VAULT_TYPE_CLOB
+- equity: "15578523551"
+  inventory: "-4600000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 1500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx138aqldklse4uedzesdfkvhqh399n8gpa8rmzvq
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 144
+    type: VAULT_TYPE_CLOB
+- equity: "63738836528"
+  inventory: "39904000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 1500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx16nadwv208kckr5tac033z6eslgy03plkhdmgcq
+  total_shares:
+    num_shares: "100000000000"
+  vault_id:
+    number: 146
+    type: VAULT_TYPE_CLOB
+- equity: "6344565954"
+  inventory: "-186000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 1500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx162a22u824nkyhkpxq6nl90p0z6s87jcsdg2339
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 147
+    type: VAULT_TYPE_CLOB
+- equity: "10110888659"
+  inventory: "-103000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5500
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1qm5ryzt33gjjhy7h9apxm8889un7hepw7utg4j
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 15
+    type: VAULT_TYPE_CLOB
+- equity: "10316762748"
+  inventory: "-1554000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1qyw5mnsgunyutyhg603gl2wwehd2zy5tcwnrpv
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 21
+    type: VAULT_TYPE_CLOB
+- equity: "8026704409"
+  inventory: "-243000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx14a4sg762e694e9j5pttpp3gld6j4hyq53u6jps
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 23
+    type: VAULT_TYPE_CLOB
+- equity: "8417734890"
+  inventory: "-152000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1utsgenwxx6hw04fugte69y2cyzdngm0a0dhqc6
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 25
+    type: VAULT_TYPE_CLOB
+- equity: "3702336012"
+  inventory: "-10000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1esh4d4rdl58lqauha8met8g78xry52ry3nnmw6
+  total_shares:
+    num_shares: "3102000000"
+  vault_id:
+    number: 28
+    type: VAULT_TYPE_CLOB
+- equity: "8449118815"
+  inventory: "-677000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1muttrndpjec7j2jv4je055z2mvhc3dm2xz524a
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 29
+    type: VAULT_TYPE_CLOB
+- equity: "21590346454"
+  inventory: "-486000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1g5dpm5kecfmtn4uzp5e55k0hhzynqjmdg4n2ul
+  total_shares:
+    num_shares: "30000000000"
+  vault_id:
+    number: 30
+    type: VAULT_TYPE_CLOB
+- equity: "9862040987"
+  inventory: "-349000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1fhz38ll7xugk3lfgrn9hky6x0knjw7xxvtca85
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 31
+    type: VAULT_TYPE_CLOB
+- equity: "14790966116"
+  inventory: "-5411000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1h8n2lwx8pzk509cxcd2l0ngvzutrsqrfr42nxk
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 33
+    type: VAULT_TYPE_CLOB
+- equity: "7711531707"
+  inventory: "-129000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1xj8m8jkaqfzgjrpa570n96hyt74c0066yl2ar5
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 35
+    type: VAULT_TYPE_CLOB
+- equity: "10029374806"
+  inventory: "-447000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1g460jgzrc6dy9a8ptn5d3mey0nqasvhdyl6ec4
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 37
+    type: VAULT_TYPE_CLOB
+- equity: "8994252259"
+  inventory: "-346000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1jatnxzqghex6f924c0h5j5sqagczqh5j48tp84
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 38
+    type: VAULT_TYPE_CLOB
+- equity: "9065992643"
+  inventory: "-48000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1j62ts3d47m6x9005ljgmxrpxwaxx84a7q9874z
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 39
+    type: VAULT_TYPE_CLOB
+- equity: "7144131779"
+  inventory: "246000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1gu0pqrxqucdxrdqxwcts5tpnl855anv76ramnh
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 42
+    type: VAULT_TYPE_CLOB
+- equity: "10085461266"
+  inventory: "545000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1x095fjmdaeh20t8juc0hmswdzmm65ugcsdhp4x
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 43
+    type: VAULT_TYPE_CLOB
+- equity: "8648169646"
+  inventory: "-588000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx18jel3thzvshjm0ud0rav77gessj2dhh35qzz0d
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 45
+    type: VAULT_TYPE_CLOB
+- equity: "7392409964"
+  inventory: "-415000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx17ps237qx5v2gfp7lqx263qgzq7jd3570vwr7ry
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 46
+    type: VAULT_TYPE_CLOB
+- equity: "27128087560"
+  inventory: "-2270000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1tpnycqu4svhpv46p6uayqvqdmckdzmt83dkh0s
+  total_shares:
+    num_shares: "30000000000"
+  vault_id:
+    number: 47
+    type: VAULT_TYPE_CLOB
+- equity: "10202398132"
+  inventory: "151000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx19seeflkz7rlhxzflc4p8qjnem620jaw655vh7v
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 49
+    type: VAULT_TYPE_CLOB
+- equity: "10063240011"
+  inventory: "-1041000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1jqsjfnwwhuey2wfp7le4fa8dgnjxh5p6d5lxh9
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 50
+    type: VAULT_TYPE_CLOB
+- equity: "8420324851"
+  inventory: "-1852000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1ymaawj692v97k6tfz8mpelxnanl7zgwnzzegmq
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 51
+    type: VAULT_TYPE_CLOB
+- equity: "9945437648"
+  inventory: "-293000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1p9artkuehv25dyavygfa0amp90qeqaz9j4xn94
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 52
+    type: VAULT_TYPE_CLOB
+- equity: "9771819706"
+  inventory: "-2885000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx13zuj68f5jauk5f4fkejpxpqnqaeqygllvpmumx
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 53
+    type: VAULT_TYPE_CLOB
+- equity: "9224597756"
+  inventory: "-1685000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx15ww9np5agf9zfkpxcy89xemh3hrz2v34vr9xkr
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 54
+    type: VAULT_TYPE_CLOB
+- equity: "10259292756"
+  inventory: "-624000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2500
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx199sr4gnmllvrkyr834gyg8m8d27n07509dkx43
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 55
+    type: VAULT_TYPE_CLOB
+- equity: "9448354577"
+  inventory: "-540000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1kqpncwy79jh0qwfzaffzdnk9nyngel0xz48t9f
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 56
+    type: VAULT_TYPE_CLOB
+- equity: "12707956094"
+  inventory: "-214000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx16q2pw8q9mfdva7zqakfvt38n7qasna38fsf7ak
+  total_shares:
+    num_shares: "20000000000"
+  vault_id:
+    number: 57
+    type: VAULT_TYPE_CLOB
+- equity: "7910397875"
+  inventory: "-9969000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1jyukv56r5hv87t5ked8tpy0haetlclnzncjtg3
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 58
+    type: VAULT_TYPE_CLOB
+- equity: "10026490601"
+  inventory: "-3890000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1hmhzwq5cn86u00q33kyae6xmljwmdgne2h5akp
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 59
+    type: VAULT_TYPE_CLOB
+- equity: "10637084559"
+  inventory: "-6712000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1pcf5zp2qek6satxnu76hshs8veg4z3f5enj9rd
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 60
+    type: VAULT_TYPE_CLOB
+- equity: "19751754828"
+  inventory: "-816000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx15wy09dd8zfp5z2hkh90jwynve2awk6v8w2ztjg
+  total_shares:
+    num_shares: "20000000000"
+  vault_id:
+    number: 61
+    type: VAULT_TYPE_CLOB
+- equity: "8842900787"
+  inventory: "-160000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1lkxwl4hdwn2ggt9q2ruuh4nmrhj5hk9m3c73kt
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 62
+    type: VAULT_TYPE_CLOB
+- equity: "8584160500"
+  inventory: "-3338000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx12laptmp99yttf5k7s0uzqer6cj44u3ynj60sx3
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 64
+    type: VAULT_TYPE_CLOB
+- equity: "7492174194"
+  inventory: "-610000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 1000
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1a5c5yk88zcax7s3dzt72lrrwex6efnfmweycvs
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 65
+    type: VAULT_TYPE_CLOB
+- equity: "9690023103"
+  inventory: "-2733000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1ev45egc7c2har2jxf6lxwsmtldk295x4rucflq
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 66
+    type: VAULT_TYPE_CLOB
+- equity: "9296298254"
+  inventory: "369000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1ecrdl42227qfs7tr9h94k8mfxl6zfsysx3457j
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 67
+    type: VAULT_TYPE_CLOB
+- equity: "7178065513"
+  inventory: "-115000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1v2p6qj9lvzs46nmyjxw26lwaqa4g2rd4jq9yer
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 68
+    type: VAULT_TYPE_CLOB
+- equity: "51346379358"
+  inventory: "-5866000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1cnd3ftpvqr3khjsfn6ptz0a8fzd99p4dnmkt2l
+  total_shares:
+    num_shares: "49992328455"
+  vault_id:
+    number: 69
+    type: VAULT_TYPE_CLOB
+- equity: "21681381514"
+  inventory: "-1017000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx16fg2j83kkzwz9ghqrdgatzsnsfz7mzknz0e8yw
+  total_shares:
+    num_shares: "14997672203"
+  vault_id:
+    number: 70
+    type: VAULT_TYPE_CLOB
+- equity: "31654201406"
+  inventory: "-9521000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx12dffextgdnvrv349krs2thvhcdnwr4850d35h7
+  total_shares:
+    num_shares: "14999999996"
+  vault_id:
+    number: 72
+    type: VAULT_TYPE_CLOB
+- equity: "7936712306"
+  inventory: "8381000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1ge5qgepfxcjetkgvfgcph05zcv78we53w2g5h7
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 73
+    type: VAULT_TYPE_CLOB
+- equity: "8768822340"
+  inventory: "-74000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1pzaql7h3tkt9uet8yht80me5td6gh0aprf58yk
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 74
+    type: VAULT_TYPE_CLOB
+- equity: "9581129484"
+  inventory: "719000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1ht8hrec0tupp00q8afkfn6lzzxrdcmlp8knwyz
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 75
+    type: VAULT_TYPE_CLOB
+- equity: "9131633690"
+  inventory: "-685000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx19ykejm094kzj054wt3lks3fk9kuwfu9h0z8hcs
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 76
+    type: VAULT_TYPE_CLOB
+- equity: "9488737449"
+  inventory: "-13952000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx10vwegs2dyjm6443uqpp0y7v9u4snmcnu5wpgnr
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 77
+    type: VAULT_TYPE_CLOB
+- equity: "4028169032"
+  inventory: "18000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1qsyv2ug8y0m5xgapfr6avrj9ktu79pyq49pphg
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 78
+    type: VAULT_TYPE_CLOB
+- equity: "15436332918"
+  inventory: "-5151000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1l04nf4udw7swyrzge66j66n09ry4aawfm4xd07
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 79
+    type: VAULT_TYPE_CLOB
+- equity: "12069946084"
+  inventory: "-202000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1264ag2trux63698h56vduy566yw5qkrlks3e3f
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 80
+    type: VAULT_TYPE_CLOB
+- equity: "10479869171"
+  inventory: "-15317000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1snpcs7pgxfaw6yrtth3gajequ7f9zckp8zltjg
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 81
+    type: VAULT_TYPE_CLOB
+- equity: "9393416345"
+  inventory: "-9676000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx14wgrzzurfygjspmrptgy64x8v79q709her47lt
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 82
+    type: VAULT_TYPE_CLOB
+- equity: "13073728508"
+  inventory: "-1239000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1kywd7tcyvpwx8j6dc7t5733wmum4k2dq68trn6
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 83
+    type: VAULT_TYPE_CLOB
+- equity: "8635417524"
+  inventory: "235000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1m0pn0ygh37qp345rd44scq58ch7e4h0wfpdrcs
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 84
+    type: VAULT_TYPE_CLOB
+- equity: "8780078817"
+  inventory: "-831000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1la0t02ztyfch3y42lgp43cfxgjxp7gmghsxun5
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 85
+    type: VAULT_TYPE_CLOB
+- equity: "6936359480"
+  inventory: "-269000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1vvdpmwsyum9r5y92c3gpks5ednxqazfmpjv8qf
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 86
+    type: VAULT_TYPE_CLOB
+- equity: "8662395947"
+  inventory: "-3044000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1rtkg76uvpll6jhvm79knsrqaf9vx48wcfn7she
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 87
+    type: VAULT_TYPE_CLOB
+- equity: "10456052920"
+  inventory: "-218000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx10kgkxtwtue28hjgtmflhxltwezrc5aw4yuctu0
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 88
+    type: VAULT_TYPE_CLOB
+- equity: "10879603045"
+  inventory: "-2816000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx186d03739dhkt8eeqahql3dcscyvgh9f6gsuzxn
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 89
+    type: VAULT_TYPE_CLOB
+- equity: "10484236649"
+  inventory: "-5131000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1jnsphepypg3xczftcxlg8fmlr0djkhjnmxnd4m
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 90
+    type: VAULT_TYPE_CLOB
+- equity: "10468161485"
+  inventory: "-5692000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1c5atsq350zsdwzld4e9k648cx4rkr9792e4xtp
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 91
+    type: VAULT_TYPE_CLOB
+- equity: "8244827640"
+  inventory: "-2608000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1ek2uc2sw25w633fyxhqfkgt335fd4l6hkpvw3j
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 92
+    type: VAULT_TYPE_CLOB
+- equity: "9262452229"
+  inventory: "-3194000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx1w9nquxp466tmy58ln69wfv6lwhk9xzaz9lzfkv
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 93
+    type: VAULT_TYPE_CLOB
+- equity: "11439602201"
+  inventory: "-4729000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2000000
+    spread_buffer_ppm: 2200
+    spread_min_ppm: 3000
+  subaccount_id:
+    number: 0
+    owner: dydx1peve5pgycz6lx5r3jukaqxxr5tqyyl6xs7j09l
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 94
+    type: VAULT_TYPE_CLOB
+- equity: "10293097131"
+  inventory: "-4287000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1mt66ymx2vv7dzct3t0h6m3afln4s235jf0esja
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 95
+    type: VAULT_TYPE_CLOB
+- equity: "11235817170"
+  inventory: "1791000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx127pntl3k27tfqaqs2f6nqu6vcndfnamt7ylv0c
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 96
+    type: VAULT_TYPE_CLOB
+- equity: "15054395426"
+  inventory: "-296000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 1500000
+    spread_buffer_ppm: 5200
+    spread_min_ppm: 6000
+  subaccount_id:
+    number: 0
+    owner: dydx16hklzgswcw9w4xhh4vdajlclaghwzgmr2m6hlp
+  total_shares:
+    num_shares: "14909844215"
+  vault_id:
+    number: 97
+    type: VAULT_TYPE_CLOB
+- equity: "9533318282"
+  inventory: "-536000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1c6s0pg7hsc9enyr4nn9vhmyk8yps3wkhvlr0fz
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 98
+    type: VAULT_TYPE_CLOB
+- equity: "9710986264"
+  inventory: "-25000000"
+  quoting_params:
+    activation_threshold_quote_quantums: "1000000000"
+    layers: 2
+    order_expiration_seconds: 60
+    order_size_pct_ppm: 100000
+    skew_factor_ppm: 2500000
+    spread_buffer_ppm: 700
+    spread_min_ppm: 1500
+  subaccount_id:
+    number: 0
+    owner: dydx1y73m286vcnvrjnrcwv7d7l4gs2v2x5r65n7726
+  total_shares:
+    num_shares: "10000000000"
+  vault_id:
+    number: 99
+    type: VAULT_TYPE_CLOB

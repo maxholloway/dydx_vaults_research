@@ -1,0 +1,470 @@
+[
+    {
+        "vault_address": "dydx1c0m5x87llaunl5sgv3q5vd7j5uha26d2q2r2q0",
+        "market_name": "BTC-USD"
+    },
+    {
+        "vault_address": "dydx14rplxdyycc6wxmgl8fggppgq4774l70zt6phkw",
+        "market_name": "ETH-USD"
+    },
+    {
+        "vault_address": "dydx165fla2xss0wrg8rr04x3e46mneat4fckrcf429",
+        "market_name": "DOGE-USD"
+    },
+    {
+        "vault_address": "dydx1czwrmjdehcvmk4xjdg8mwkxecgg67am0ccxdul",
+        "market_name": "CVX-USD"
+    },
+    {
+        "vault_address": "dydx1ag5jgl436uwa007t6ugvnwvy8hj0ynvvvtcu2g",
+        "market_name": "SUSHI-USD"
+    },
+    {
+        "vault_address": "dydx1ypya4270fm4gujvktk67ldvru3y2nx7pvud7ej",
+        "market_name": "ZRX-USD"
+    },
+    {
+        "vault_address": "dydx124wtevhqpjg35m9ph7zf03al55k4a460celcn9",
+        "market_name": "PENDLE-USD"
+    },
+    {
+        "vault_address": "dydx10aysrtwzlasf4wavv6tgp40mpkn0vl3qcc0gcq",
+        "market_name": "DEGEN-USD"
+    },
+    {
+        "vault_address": "dydx1xe7h0k8qqyupu5z7xh83wpd79d9h0s4w6eukre",
+        "market_name": "MNT-USD"
+    },
+    {
+        "vault_address": "dydx190wezyn99zsk2hgc3s7nlt5sjltzj04cm657hl",
+        "market_name": "JASMY-USD"
+    },
+    {
+        "vault_address": "dydx1wrt4ytendg0l490m028kt5c0850fkkmjwf5tg4",
+        "market_name": "CORE-USD"
+    },
+    {
+        "vault_address": "dydx1grnsunqr2dhtgld5vcwu0awzntk88sq9fngz35",
+        "market_name": "PEOPLE-USD"
+    },
+    {
+        "vault_address": "dydx15t8hzcu3exjnh7lp4ks2m0qzcpfmjw7wnq0fvr",
+        "market_name": "GMX-USD"
+    },
+    {
+        "vault_address": "dydx10fxlw7umtqdel7n4tx8nrzwtzy4dpev6ls3na0",
+        "market_name": "POPCAT-USD"
+    },
+    {
+        "vault_address": "dydx1key68rph9mtmm09f5udr58pfyq586dqr56zusw",
+        "market_name": "PRIME-USD"
+    },
+    {
+        "vault_address": "dydx1ekgna52r076ng7d69c3u8ct7r4k3hw955nedwg",
+        "market_name": "GALA-USD"
+    },
+    {
+        "vault_address": "dydx1mcskurn6epk8av0whh8rjtjafhs5j7dw4za9us",
+        "market_name": "AXS-USD"
+    },
+    {
+        "vault_address": "dydx1pjvu4hurzc87l2j887f56s5qqk7dwsapdssvc4",
+        "market_name": "XAI-USD"
+    },
+    {
+        "vault_address": "dydx1dgrakcus0zwyajzprkfjnf666cnwcdew9zvvly",
+        "market_name": "MEW-USD"
+    },
+    {
+        "vault_address": "dydx1l3avcq2mwy9w0zua5m6g9j258f2edr5um74fwy",
+        "market_name": "BEAM-USD"
+    },
+    {
+        "vault_address": "dydx1ushp8haqknjw3ur57ddyfhgsmcq0xysmn6m8ex",
+        "market_name": "NEO-USD"
+    },
+    {
+        "vault_address": "dydx1s55fuhygskjyu2llrvtaqqzuycl9dkvtrh4vs3",
+        "market_name": "EGLD-USD"
+    },
+    {
+        "vault_address": "dydx1ulquskxxqs80lq4s4q78f6g8swu0hr74ap0c27",
+        "market_name": "ALT-USD"
+    },
+    {
+        "vault_address": "dydx1dc75mue9ylew9ql7yzgn5p4utgwvct747q6zym",
+        "market_name": "PIXEL-USD"
+    },
+    {
+        "vault_address": "dydx10ha4kaph74uxsstw547ux8hh6yk7vv7xgykxtl",
+        "market_name": "TURBO-USD"
+    },
+    {
+        "vault_address": "dydx1clduy6jtmju4chl4mfuv0zv6nryhpp07uuumr9",
+        "market_name": "BOME-USD"
+    },
+    {
+        "vault_address": "dydx1gh7j9n3hh59zm3r4zhfk69nydnz723yf2gmujm",
+        "market_name": "ZEN-USD"
+    },
+    {
+        "vault_address": "dydx18ndf2h65c3qma5av354nz6kcjdkv5wtvsmj7z4",
+        "market_name": "BICO-USD"
+    },
+    {
+        "vault_address": "dydx13kcp8ljcef243yv9f2js6nr7uj4yasv5xsk4gy",
+        "market_name": "OM-USD"
+    },
+    {
+        "vault_address": "dydx1p56afvyvjaktnnnskqvr4k38jdhr86m4p5dpmu",
+        "market_name": "DMAIL-USD"
+    },
+    {
+        "vault_address": "dydx1vpdmlvk8dg6wsqwp0am3t89wzt6c6zdve3qjty",
+        "market_name": "MAVIA-USD"
+    },
+    {
+        "vault_address": "dydx1evmk2a3rp6adr5nzwsjh956deps30k08tchugs",
+        "market_name": "ZERO-USD"
+    },
+    {
+        "vault_address": "dydx1g99yaj7339hfu5a80z6yqj7gtssr884g6zkd8x",
+        "market_name": "UNI-USD"
+    },
+    {
+        "vault_address": "dydx144wyzc7zfgtmd4rm5l5vs5x0cfmkm7j00uh492",
+        "market_name": "VRTX-USD"
+    },
+    {
+        "vault_address": "dydx1tztgq6lygfvdd94ascze3phunclt5k3r7dc0le",
+        "market_name": "MICHI-USD"
+    },
+    {
+        "vault_address": "dydx1ffwcwp4e7cgll5qyv0z685hw8l5l3q7jp4q2ks",
+        "market_name": "AURORA-USD"
+    },
+    {
+        "vault_address": "dydx1eldxlhm8ass4fcm2s9yvhf5qguy6p5m63tvjkf",
+        "market_name": "FOXY-USD"
+    },
+    {
+        "vault_address": "dydx10pmmpjllyrap2cthfy49axfh8erlw87c8qzt92",
+        "market_name": "PAXG-USD"
+    },
+    {
+        "vault_address": "dydx16ej3jztl5wqhwegsys6y0zkldzj2m984c9066n",
+        "market_name": "GME-USD"
+    },
+    {
+        "vault_address": "dydx1r2gfpy5kcr74vve5duat36hygr53f6qp0n7asm",
+        "market_name": "DRIFT-USD"
+    },
+    {
+        "vault_address": "dydx1lxg3qjp5xesysr6ceh0rq2zzah6xe7qv2lt0xk",
+        "market_name": "EURC-USD"
+    },
+    {
+        "vault_address": "dydx169s7gl0a2v74zhqhmluljdx2dpkmpc9pp4snk7",
+        "market_name": "RETARDIO-USD"
+    },
+    {
+        "vault_address": "dydx1ddhw6s8jdd6lhqx7drs75hkcv4gfht4wh97rn2",
+        "market_name": "DAI-USD"
+    },
+    {
+        "vault_address": "dydx17aszlxyfvtw6rg2l2s38e4t7dqnn6mwdx4mg7w",
+        "market_name": "OSMO-USD"
+    },
+    {
+        "vault_address": "dydx1krtpfeau4p4n8ffs3wlc0kj63pgx70lxnk3cpd",
+        "market_name": "NEIRO-USD"
+    },
+    {
+        "vault_address": "dydx1747mf6l99pqps9gv6tgvfr5wxuvny7ucalr33k",
+        "market_name": "HNT-USD"
+    },
+    {
+        "vault_address": "dydx1yzqutt4f6wq74sfy7j45s9gfmlxcy7vy3cu9jv",
+        "market_name": "TRY-USD"
+    },
+    {
+        "vault_address": "dydx138aqldklse4uedzesdfkvhqh399n8gpa8rmzvq",
+        "market_name": "SUNDOG-USD"
+    },
+    {
+        "vault_address": "dydx16nadwv208kckr5tac033z6eslgy03plkhdmgcq",
+        "market_name": "TRUMPWIN-USD"
+    },
+    {
+        "vault_address": "dydx162a22u824nkyhkpxq6nl90p0z6s87jcsdg2339",
+        "market_name": "CETUS-USD"
+    },
+    {
+        "vault_address": "dydx1qm5ryzt33gjjhy7h9apxm8889un7hepw7utg4j",
+        "market_name": "TRX-USD"
+    },
+    {
+        "vault_address": "dydx1qyw5mnsgunyutyhg603gl2wwehd2zy5tcwnrpv",
+        "market_name": "WLD-USD"
+    },
+    {
+        "vault_address": "dydx14a4sg762e694e9j5pttpp3gld6j4hyq53u6jps",
+        "market_name": "APT-USD"
+    },
+    {
+        "vault_address": "dydx1utsgenwxx6hw04fugte69y2cyzdngm0a0dhqc6",
+        "market_name": "BLUR-USD"
+    },
+    {
+        "vault_address": "dydx1esh4d4rdl58lqauha8met8g78xry52ry3nnmw6",
+        "market_name": "PEPE-USD"
+    },
+    {
+        "vault_address": "dydx1muttrndpjec7j2jv4je055z2mvhc3dm2xz524a",
+        "market_name": "SEI-USD"
+    },
+    {
+        "vault_address": "dydx1g5dpm5kecfmtn4uzp5e55k0hhzynqjmdg4n2ul",
+        "market_name": "SHIB-USD"
+    },
+    {
+        "vault_address": "dydx1fhz38ll7xugk3lfgrn9hky6x0knjw7xxvtca85",
+        "market_name": "SUI-USD"
+    },
+    {
+        "vault_address": "dydx1h8n2lwx8pzk509cxcd2l0ngvzutrsqrfr42nxk",
+        "market_name": "TIA-USD"
+    },
+    {
+        "vault_address": "dydx1xj8m8jkaqfzgjrpa570n96hyt74c0066yl2ar5",
+        "market_name": "JUP-USD"
+    },
+    {
+        "vault_address": "dydx1g460jgzrc6dy9a8ptn5d3mey0nqasvhdyl6ec4",
+        "market_name": "BNB-USD"
+    },
+    {
+        "vault_address": "dydx1jatnxzqghex6f924c0h5j5sqagczqh5j48tp84",
+        "market_name": "JTO-USD"
+    },
+    {
+        "vault_address": "dydx1j62ts3d47m6x9005ljgmxrpxwaxx84a7q9874z",
+        "market_name": "ORDI-USD"
+    },
+    {
+        "vault_address": "dydx1gu0pqrxqucdxrdqxwcts5tpnl855anv76ramnh",
+        "market_name": "DYM-USD"
+    },
+    {
+        "vault_address": "dydx1x095fjmdaeh20t8juc0hmswdzmm65ugcsdhp4x",
+        "market_name": "STRK-USD"
+    },
+    {
+        "vault_address": "dydx18jel3thzvshjm0ud0rav77gessj2dhh35qzz0d",
+        "market_name": "WOO-USD"
+    },
+    {
+        "vault_address": "dydx17ps237qx5v2gfp7lqx263qgzq7jd3570vwr7ry",
+        "market_name": "PYTH-USD"
+    },
+    {
+        "vault_address": "dydx1tpnycqu4svhpv46p6uayqvqdmckdzmt83dkh0s",
+        "market_name": "BONK-USD"
+    },
+    {
+        "vault_address": "dydx19seeflkz7rlhxzflc4p8qjnem620jaw655vh7v",
+        "market_name": "RENDER-USD"
+    },
+    {
+        "vault_address": "dydx1jqsjfnwwhuey2wfp7le4fa8dgnjxh5p6d5lxh9",
+        "market_name": "STX-USD"
+    },
+    {
+        "vault_address": "dydx1ymaawj692v97k6tfz8mpelxnanl7zgwnzzegmq",
+        "market_name": "INJ-USD"
+    },
+    {
+        "vault_address": "dydx1p9artkuehv25dyavygfa0amp90qeqaz9j4xn94",
+        "market_name": "IMX-USD"
+    },
+    {
+        "vault_address": "dydx13zuj68f5jauk5f4fkejpxpqnqaeqygllvpmumx",
+        "market_name": "HBAR-USD"
+    },
+    {
+        "vault_address": "dydx15ww9np5agf9zfkpxcy89xemh3hrz2v34vr9xkr",
+        "market_name": "ALGO-USD"
+    },
+    {
+        "vault_address": "dydx199sr4gnmllvrkyr834gyg8m8d27n07509dkx43",
+        "market_name": "GRT-USD"
+    },
+    {
+        "vault_address": "dydx1kqpncwy79jh0qwfzaffzdnk9nyngel0xz48t9f",
+        "market_name": "MANA-USD"
+    },
+    {
+        "vault_address": "dydx16q2pw8q9mfdva7zqakfvt38n7qasna38fsf7ak",
+        "market_name": "RUNE-USD"
+    },
+    {
+        "vault_address": "dydx1jyukv56r5hv87t5ked8tpy0haetlclnzncjtg3",
+        "market_name": "AXL-USD"
+    },
+    {
+        "vault_address": "dydx1hmhzwq5cn86u00q33kyae6xmljwmdgne2h5akp",
+        "market_name": "AEVO-USD"
+    },
+    {
+        "vault_address": "dydx1pcf5zp2qek6satxnu76hshs8veg4z3f5enj9rd",
+        "market_name": "ASTR-USD"
+    },
+    {
+        "vault_address": "dydx15wy09dd8zfp5z2hkh90jwynve2awk6v8w2ztjg",
+        "market_name": "SNX-USD"
+    },
+    {
+        "vault_address": "dydx1lkxwl4hdwn2ggt9q2ruuh4nmrhj5hk9m3c73kt",
+        "market_name": "ARKM-USD"
+    },
+    {
+        "vault_address": "dydx12laptmp99yttf5k7s0uzqer6cj44u3ynj60sx3",
+        "market_name": "CHZ-USD"
+    },
+    {
+        "vault_address": "dydx1a5c5yk88zcax7s3dzt72lrrwex6efnfmweycvs",
+        "market_name": "WIF-USD"
+    },
+    {
+        "vault_address": "dydx1ev45egc7c2har2jxf6lxwsmtldk295x4rucflq",
+        "market_name": "ETHFI-USD"
+    },
+    {
+        "vault_address": "dydx1ecrdl42227qfs7tr9h94k8mfxl6zfsysx3457j",
+        "market_name": "TON-USD"
+    },
+    {
+        "vault_address": "dydx1v2p6qj9lvzs46nmyjxw26lwaqa4g2rd4jq9yer",
+        "market_name": "W-USD"
+    },
+    {
+        "vault_address": "dydx1cnd3ftpvqr3khjsfn6ptz0a8fzd99p4dnmkt2l",
+        "market_name": "MOTHER-USD"
+    },
+    {
+        "vault_address": "dydx16fg2j83kkzwz9ghqrdgatzsnsfz7mzknz0e8yw",
+        "market_name": "MOG-USD"
+    },
+    {
+        "vault_address": "dydx12dffextgdnvrv349krs2thvhcdnwr4850d35h7",
+        "market_name": "TREMP-USD"
+    },
+    {
+        "vault_address": "dydx1ge5qgepfxcjetkgvfgcph05zcv78we53w2g5h7",
+        "market_name": "BODEN-USD"
+    },
+    {
+        "vault_address": "dydx1pzaql7h3tkt9uet8yht80me5td6gh0aprf58yk",
+        "market_name": "ZRO-USD"
+    },
+    {
+        "vault_address": "dydx1ht8hrec0tupp00q8afkfn6lzzxrdcmlp8knwyz",
+        "market_name": "ZK-USD"
+    },
+    {
+        "vault_address": "dydx19ykejm094kzj054wt3lks3fk9kuwfu9h0z8hcs",
+        "market_name": "TLOS-USD"
+    },
+    {
+        "vault_address": "dydx10vwegs2dyjm6443uqpp0y7v9u4snmcnu5wpgnr",
+        "market_name": "ONDO-USD"
+    },
+    {
+        "vault_address": "dydx1qsyv2ug8y0m5xgapfr6avrj9ktu79pyq49pphg",
+        "market_name": "ENA-USD"
+    },
+    {
+        "vault_address": "dydx1l04nf4udw7swyrzge66j66n09ry4aawfm4xd07",
+        "market_name": "IO-USD"
+    },
+    {
+        "vault_address": "dydx1264ag2trux63698h56vduy566yw5qkrlks3e3f",
+        "market_name": "AR-USD"
+    },
+    {
+        "vault_address": "dydx1snpcs7pgxfaw6yrtth3gajequ7f9zckp8zltjg",
+        "market_name": "KAS-USD"
+    },
+    {
+        "vault_address": "dydx14wgrzzurfygjspmrptgy64x8v79q709her47lt",
+        "market_name": "NOT-USD"
+    },
+    {
+        "vault_address": "dydx1kywd7tcyvpwx8j6dc7t5733wmum4k2dq68trn6",
+        "market_name": "ENS-USD"
+    },
+    {
+        "vault_address": "dydx1m0pn0ygh37qp345rd44scq58ch7e4h0wfpdrcs",
+        "market_name": "FLOKI-USD"
+    },
+    {
+        "vault_address": "dydx1la0t02ztyfch3y42lgp43cfxgjxp7gmghsxun5",
+        "market_name": "TAO-USD"
+    },
+    {
+        "vault_address": "dydx1vvdpmwsyum9r5y92c3gpks5ednxqazfmpjv8qf",
+        "market_name": "FTM-USD"
+    },
+    {
+        "vault_address": "dydx1rtkg76uvpll6jhvm79knsrqaf9vx48wcfn7she",
+        "market_name": "SAFE-USD"
+    },
+    {
+        "vault_address": "dydx10kgkxtwtue28hjgtmflhxltwezrc5aw4yuctu0",
+        "market_name": "TAIKO-USD"
+    },
+    {
+        "vault_address": "dydx186d03739dhkt8eeqahql3dcscyvgh9f6gsuzxn",
+        "market_name": "AKT-USD"
+    },
+    {
+        "vault_address": "dydx1jnsphepypg3xczftcxlg8fmlr0djkhjnmxnd4m",
+        "market_name": "CAKE-USD"
+    },
+    {
+        "vault_address": "dydx1c5atsq350zsdwzld4e9k648cx4rkr9792e4xtp",
+        "market_name": "BRETT-USD"
+    },
+    {
+        "vault_address": "dydx1ek2uc2sw25w633fyxhqfkgt335fd4l6hkpvw3j",
+        "market_name": "SATS-USD"
+    },
+    {
+        "vault_address": "dydx1w9nquxp466tmy58ln69wfv6lwhk9xzaz9lzfkv",
+        "market_name": "BLAST-USD"
+    },
+    {
+        "vault_address": "dydx1peve5pgycz6lx5r3jukaqxxr5tqyyl6xs7j09l",
+        "market_name": "XMR-USD"
+    },
+    {
+        "vault_address": "dydx1mt66ymx2vv7dzct3t0h6m3afln4s235jf0esja",
+        "market_name": "THETA-USD"
+    },
+    {
+        "vault_address": "dydx127pntl3k27tfqaqs2f6nqu6vcndfnamt7ylv0c",
+        "market_name": "ENJ-USD"
+    },
+    {
+        "vault_address": "dydx16hklzgswcw9w4xhh4vdajlclaghwzgmr2m6hlp",
+        "market_name": "1INCH-USD"
+    },
+    {
+        "vault_address": "dydx1c6s0pg7hsc9enyr4nn9vhmyk8yps3wkhvlr0fz",
+        "market_name": "XTZ-USD"
+    },
+    {
+        "vault_address": "dydx1y73m286vcnvrjnrcwv7d7l4gs2v2x5r65n7726",
+        "market_name": "UMA-USD"
+    }
+]
