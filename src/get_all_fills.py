@@ -71,7 +71,7 @@ for vault_info in vault_addresses:
         cur_before_or_at_height = min_height
 
         # print(json.dumps(fills_to_write, indent=4))
-        time.sleep(0.2)
+        time.sleep(1)
     
     fills_to_write_single_name = list(sorted(fills_to_write_single_name, key=lambda x: x["fill_height"]))
     
